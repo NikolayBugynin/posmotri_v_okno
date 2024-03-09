@@ -19,7 +19,6 @@
 - CSS
 - BEM
 - Flexbox
-- Grid Layout
 
 **Figma**
 
