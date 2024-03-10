@@ -55,7 +55,6 @@ ol {
   display: flex;
   align-items: flex-end;
   gap: 30px;
-  height: 530px;
 }
 
 .result {
@@ -80,10 +79,6 @@ ol {
 .search-form {
   display: flex;
   justify-content: space-between;
-}
-
-.search-form__fieldset {
-  /* width: fit-content; */
 }
 
 .search-form__fieldset-title {
@@ -181,7 +176,7 @@ ol {
 
 .content__list {
   position: relative;
-  height: 324px;
+  height: 298px;
   overflow-y: auto;
 }
 
